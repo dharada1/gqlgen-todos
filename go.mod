@@ -1,6 +1,6 @@
 module github.com/dharada1/gqlgen-todos
 
-go 1.13
+go 1.14
 
 require (
 	github.com/99designs/gqlgen v0.11.3
